@@ -2,7 +2,9 @@
 ## here's some things to get to know me!
 
 > 🎓 a first year student in *data science and business administration*
+
 > 💬 currently expanding my mastery in *python and data visualization*
+> 
 > 🔭 very busy with school right now
 
 ### 📫 how to reach me?
