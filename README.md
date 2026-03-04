@@ -1,13 +1,10 @@
-<h2 align="center">hello! 🤭🤭</h2>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm5odnc4ZGRmenloeng2am40emEyMzg5YjVlazNqOGcwdnIxbWx6dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/12tRnosTqs06nm/giphy.gif" width="500">
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4999&pause=1000&color=F7B6DD&center=true&vCenter=true&width=435&lines=welcome+to+my+profile!;my+name+is+chantelle">
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm5odnc4ZGRmenloeng2am40emEyMzg5YjVlazNqOGcwdnIxbWx6dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/12tRnosTqs06nm/giphy.gif" width="500">
+</p>
 
 ---
 
