@@ -1,4 +1,4 @@
-# hello! i'm Chantelle 🤭🤭 
+# hello! i'm chantelle 🤭🤭 
 ## here's some things to get to know me!
 
 > 🎓 a first year student in *data science and business administration*
@@ -16,7 +16,7 @@
 
 ⭐ thanks for visiting my github profile!
 
-
+![Chantelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
 <!--
 **chanvaal/chanvaal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
